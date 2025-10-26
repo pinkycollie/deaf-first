@@ -1,6 +1,6 @@
 # Vision to Idea: A Place Where Your Dream Becomes an Idea
 
-The **Vision to Idea suite, developed by MBTQ.dev,** is a multi-tenant Software-as-a-Service (SaaS) platform designed to help anyone turn a vision into a structured idea proposal, using an interactive, mind-map-style interface called the Aura Canvas. It empowers organizations—like workforce partners, incubators, or Vocational Rehabilitation agencies such as **VR4Deaf.org**—to offer their clients a guided path from concept to a formal plan ready for review and approval. It serves as a comprehensive support platform designed to empower underrepresented groups through a **Modular Accelerator System**.
+The **Vision to Idea suite, developed by MBTQ.dev,** is a multi-tenant Software-as-a-Service (SaaS) platform designed to help anyone turn a vision into a structured idea proposal, using an interactive, mind-map-style interface called the Aura Canvas. It empowers organizations—like workforce partners, incubators, or Vocational Rehabilitation agencies VENDER run by deaf t3eam such as **VR4Deaf.org**—to offer their clients a guided path from concept to a formal plan ready for review and approval. It serves as a comprehensive support platform designed to empower underrepresented groups through a **Modular Accelerator System**.
 
 ## Production Architecture: API Hub Model
 
